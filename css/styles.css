@@ -45,7 +45,7 @@ a {
     position: absolute;
     right: 0;
     top: 0;
-    background-image:url('http://lorempixel.com/1024/760/nature/3/');
+    background-color: #4D49BB;
     background-size:cover;
     background-attachment:fixed;
 }
@@ -55,7 +55,7 @@ a {
 }
 
 #main {
-    background-color:#fefefe;
+    background-color:#A7C7E4;
 }
 #main .img-circle {
   margin-top:18px;
